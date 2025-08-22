@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: java-sample-app
-        image: rajukolupula/java-sample-app:latest
+        image: rajukolupula/java-repo:latest
         ports:
         - containerPort: 8080
 ---
